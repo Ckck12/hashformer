@@ -1,5 +1,2 @@
-# SAFE Video Challenge Example Submission
+# HashFormer: Contrastive Hashing with a Unified Temporal Transformer for Robust Audio-Visual Deepfake Detection
 
-The key requirements is to have a `script.py` file in the top level directory of the repo and optionally a `requirements.txt` file 
-
-For more details: https://safe-video-2025.dsri.org/#-model-submission 
