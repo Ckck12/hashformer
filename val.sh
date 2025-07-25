@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 torchrun --standalone --nproc_per_node=1 val.py --base_dir /media/NAS/DATASET/deepspeak/ --batch_size 32 --log_dir ./training_logs/validation/ --load_from /media/NAS/USERS/shahid/HashFormer/training_logs/inter/timit/rawnet/20250723-193245
